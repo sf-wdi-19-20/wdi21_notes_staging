@@ -310,7 +310,7 @@
   </tr>
 </table> -->
 
-##Week 5 -- Ruby
+##Week 6 -- Ruby
 
 <table>
   <tr>
@@ -331,7 +331,7 @@
   </tr>
   <tr>
     <td>Module1</td>
-    <td>Peer Review + Environment Setup (Justin)</td>
+    <td>Environment Setup (Justin)</td>
     <td>Ruby Method Drills (Nathan)</td>
     <td>OOP (Ilias / Justin)</td>
     <td>Intro Rails Framework (Ilias)</td>
@@ -354,6 +354,11 @@
     <td><!-- LEAVE BLANK --></td>
   </tr>
 </table>
+
+##Week 5 -- Project 1
+
+----
+----
 
 ##Week 4 -- Users
 
